@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daniel</title>
+    <style>
+        table, th, td {
+          border:1px solid black;
+        }
+        </style>
+</head>
+<body>
+    <h1>Daniel Baz</h1>
+    <h3>Daniel</h3>
+
+    <figure>
+        <figcaption>Daniel</figcaption>
+    <a href="https://jcw87.github.io/c2-sans-fight/"><img src="imagem/daniel.png" alt="Daniel"></a>
+    </figure>
+        <ol>
+        <li>
+            Daniel 1
+        </li>
+        <li> Daniel 2
+        </ol>
+
+       <p>Daniel Baz.</p>
+        <p>Daniel!</p>
+
+        <table>
+            <tr>
+                <th>D</th>
+                <td>A</td>
+                <td>N</td>
+                <td>I</td>
+                <td>E</td>
+                <td>L</td>
+            </tr>
+            <tr><td>A</td></tr>
+            <tr><td>N</td></tr>
+            <tr><td>I</td></tr>
+            <tr><td>E</td></tr>
+            <tr><td>L</td></tr>
+        </table>
+
+</body>
+</html>
